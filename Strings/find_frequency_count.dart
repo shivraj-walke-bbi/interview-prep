@@ -7,6 +7,5 @@ void main() {
     String char = s[i];
     map[char] = (map[char] ?? 0) + 1;
   }
-
-  print('Map :: $map');
+  
 }

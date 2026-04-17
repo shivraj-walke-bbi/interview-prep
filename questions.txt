@@ -1,0 +1,337 @@
+1) Warm-up (Syntax + IO) — 20
+
+Print “Hello, World!”
+
+Read a name and print “Hello, {name}”
+
+Add two integers
+
+Swap two numbers (with temp)
+
+Swap two numbers (without temp)
+
+Check even/odd
+
+Check positive/negative/zero
+
+Find maximum of 2 numbers
+
+Find maximum of 3 numbers
+
+Simple calculator (+, -, *, /)
+
+Compute quotient and remainder
+
+Convert Celsius ↔ Fahrenheit
+
+Area of circle
+
+Area of rectangle
+
+Perimeter of rectangle
+
+Simple interest
+
+Compound interest
+
+Convert minutes to hours+minutes
+
+Convert days to years+weeks+days
+
+Check leap year
+
+2) Loops & Patterns — 25
+
+Print 1 to N
+
+Print N to 1
+
+Sum 1..N
+
+Sum of even numbers 1..N
+
+Sum of odd numbers 1..N
+
+Multiplication table of a number
+
+Factorial of N (iterative)
+
+Power (a^b) using loop
+
+Count digits in an integer
+
+Sum of digits
+
+Reverse a number
+
+Check palindrome number
+
+Check Armstrong number
+
+GCD (loop-based)
+
+LCM (using GCD)
+
+Fibonacci series up to N terms
+
+Print all divisors of a number
+
+Count number of divisors
+
+Check prime number
+
+Print primes up to N
+
+Pattern: right triangle stars
+
+Pattern: inverted triangle
+
+Pattern: pyramid
+
+Pattern: diamond
+
+Pattern: number triangle
+
+3) Arrays/Lists Basics — 25
+
+Input a list of N integers
+
+Find sum of elements
+
+Find average of elements
+
+Find min element
+
+Find max element
+
+Find second largest
+
+Count even and odd elements
+
+Reverse a list
+
+Rotate list left by K
+
+Rotate list right by K
+
+Check if list is sorted
+
+Merge two sorted lists
+
+Remove duplicates from list
+
+Find frequency of each element (Map)
+
+Find element occurrences count
+
+Linear search
+
+Binary search (sorted list)
+
+Find missing number from 1..N
+
+Find all pairs with given sum
+
+Move all zeros to end
+
+Separate even and odd numbers
+
+Find intersection of two lists
+
+Find union of two lists
+
+Longest increasing contiguous subarray
+
+Kadane’s algorithm (max subarray sum)
+
+4) Strings — 25
+
+Reverse a string
+
+Check palindrome string
+
+Count vowels and consonants
+
+Count digits and letters
+
+Count spaces/words in a sentence
+
+Convert to uppercase/lowercase (manual or built-in)
+
+Remove spaces from string
+
+Remove all non-alphanumeric characters
+
+Find first non-repeating character
+
+Find all repeating characters
+
+Character frequency map
+
+Check anagrams
+
+Check if string contains only digits
+
+Check if string is a valid integer
+
+Find substring occurrences
+
+Longest word in a sentence
+
+Shortest word in a sentence
+
+Replace a word in sentence
+
+Reverse words in a sentence
+
+Capitalize first letter of each word
+
+Check if two strings are rotations
+
+Count occurrences of a character
+
+Remove duplicate characters
+
+Run-length encoding (basic compression)
+
+Find longest common prefix (list of strings)
+
+5) Math / Number Theory Lite — 15
+
+Sieve of Eratosthenes (primes up to N)
+
+Prime factorization
+
+Sum of prime factors
+
+Check perfect number
+
+Check abundant/deficient number
+
+Compute nCr (combinations) basic
+
+Compute nPr (permutations) basic
+
+Convert decimal to binary
+
+Convert binary to decimal
+
+Count set bits in integer
+
+Check power of two
+
+Fast exponentiation (binary power)
+
+Modular exponentiation
+
+Sum of digits until single digit (digital root)
+
+Trailing zeros in factorial
+
+6) Recursion Basics — 15
+
+Factorial (recursive)
+
+Fibonacci (recursive)
+
+Sum 1..N (recursive)
+
+Reverse string (recursive)
+
+Check palindrome string (recursive)
+
+Power a^b (recursive)
+
+GCD (Euclid recursion)
+
+Print list elements (recursive)
+
+Binary search (recursive)
+
+Tower of Hanoi (print moves)
+
+Generate all subsets of a small list
+
+Generate permutations of a string
+
+Count ways to climb stairs (1 or 2 steps)
+
+Solve maze (basic backtracking)
+
+N-Queens (small N)
+
+7) Sorting & Two Pointers — 15
+
+Implement bubble sort
+
+Implement selection sort
+
+Implement insertion sort
+
+Implement merge sort
+
+Implement quicksort
+
+Sort list of strings by length
+
+Sort map entries by value
+
+Check if two-sum exists (two pointers)
+
+Three-sum (basic)
+
+Remove duplicates from sorted array (in-place)
+
+Merge intervals (basic)
+
+Find minimum in rotated sorted array
+
+Find pair with minimum difference
+
+Partition array around pivot
+
+Dutch national flag (0/1/2 sort)
+
+8) HashMap/Set Practice — 10
+
+First repeating element
+
+First non-repeating element
+
+Check if array has duplicates
+
+Find common elements in 3 arrays
+
+Group anagrams
+
+Two-sum using hashmap
+
+Longest consecutive sequence
+
+Subarray with sum = K
+
+Count subarrays with sum = K
+
+Top K frequent elements
+
+9) Stack/Queue Basics — 10
+
+Implement stack using List
+
+Implement queue using List (or ListQueue)
+
+Check balanced parentheses
+
+Next greater element
+
+Evaluate postfix expression
+
+Reverse a stack (recursion)
+
+Min stack (support getMin)
+
+Sliding window maximum (deque)
+
+Queue using two stacks
+
+Stack using two queues
